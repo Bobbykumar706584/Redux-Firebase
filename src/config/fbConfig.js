@@ -6,7 +6,7 @@ import "firebase/auth";
 // Initialize Firebase
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-var firebaseConfig = {
+const firebaseConfig = {
 	apiKey: "AIzaSyAPOI6Ekcqib-g_yj7ZVA_WXzNTDEmCNkU",
 	authDomain: "mario-plan-c618f.firebaseapp.com",
 	projectId: "mario-plan-c618f",
